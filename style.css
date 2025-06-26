@@ -1,0 +1,19 @@
+
+/* Tailwind já é importado via <link> */
+html {
+  transition: background-color 0.3s, color 0.3s;
+}
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+input, button {
+  transition: all 0.2s ease-in-out;
+}
+input:focus {
+  outline: none;
+  box-shadow: 0 0 0 2px rgba(59,130,246,0.5);
+}
+button:hover {
+  opacity: 0.95;
+  transform: scale(1.02);
+}
