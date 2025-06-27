@@ -29,13 +29,6 @@ Página que exibe os detalhes completos de um item da lista. A navegação é fe
 Persistência Local com localStorage:
 Todos os itens da lista são armazenados no navegador por meio do localStorage, garantindo que as informações não se percam ao recarregar a página.
 
-🛠️ Tecnologias Utilizadas
-HTML5
-
-CSS3
-
-JavaScript Puro (Vanilla JS)
-
 ▶️ Como Usar:
 Abra o arquivo index.html em um navegador.
 
